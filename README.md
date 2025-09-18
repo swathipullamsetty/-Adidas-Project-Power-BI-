@@ -29,6 +29,4 @@ This project reflects strong skills in:
 
 - Data Visualization (Power BI)
 
-- Data Cleaning (Power Query)
-
 - Business Intelligence & Storytelling
